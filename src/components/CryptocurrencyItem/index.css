@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.list-item-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.avtor-logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.list-item-logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.avatar-heading {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.crypto-item-heading {
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-right: 30px;
+}
